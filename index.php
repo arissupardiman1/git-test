@@ -8,5 +8,6 @@
 <body>
     <h1> Hello World </h1>
     <p> Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an </p>
+    <h2> Hello World lagi </h2>
 </body>
 </html>
